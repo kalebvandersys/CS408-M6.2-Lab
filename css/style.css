@@ -106,7 +106,7 @@ nav li {
     width: 350px;
     height: 350px;
     /*margin: 10px;*/
-    margin-top: 100px;
+    margin-top: 10px;
     padding: 25px;
     border-top: black solid 1px;
 }
@@ -115,7 +115,7 @@ nav li {
     width: 350px;
     height: 350px;
     /*margin: 10px;*/
-    margin-top: 100px;
+    margin-top: 10px;
     padding: 25px;
     border-top: black solid 1px;
 }
@@ -123,18 +123,16 @@ nav li {
     width: 350px;
     height: 350px;
     /*margin: 10px;*/
-    margin-top: 100px;
+    margin-top: -30px;
     padding: 25px;
-    border-top: black solid 1px;
 }
 
 .box4 {
     width: 350px;
     height: 350px;
     /*margin: 10px;*/
-    margin-top: 100px;
+    margin-top: -30px;
     padding: 25px;
-    border-top: black solid 1px;
 }
 
 main {
@@ -145,4 +143,9 @@ h3{
     width: 100%;           /* make headers full-width above boxes */
     margin: 10px 0;        /* spacing above/below header */
     text-align: left;
+    font-family: "American Typewriter";
+    font-weight: normal;
+}
+p{
+    font-size: 15px;
 }
