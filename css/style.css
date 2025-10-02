@@ -141,3 +141,8 @@ main {
     display: flex;
     flex-wrap: wrap;
 }
+h3{
+    width: 100%;           /* make headers full-width above boxes */
+    margin: 10px 0;        /* spacing above/below header */
+    text-align: left;
+}
