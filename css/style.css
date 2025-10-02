@@ -139,13 +139,30 @@ main {
     display: flex;
     flex-wrap: wrap;
 }
-h3{
+
+p{
+    font-size: 15px;
+}
+input[type="radio"] {
+    transform: scale(2.0); /* make it 1.5x bigger */
+    margin-right: 10px;     /* add some spacing so text doesn’t overlap */
+    /*padding: 3px;*/
+}
+label {
+    display: inline-flex;
+    align-items: center;
+    margin-bottom: 10px;   /* spacing between rows */
+    cursor: pointer;       /* shows it’s clickable */
+}
+
+label input {
+    margin-right: 10px;    /* space between radio and text */
+}
+h5{
     width: 100%;           /* make headers full-width above boxes */
     margin: 10px 0;        /* spacing above/below header */
     text-align: left;
     font-family: "American Typewriter";
     font-weight: normal;
-}
-p{
-    font-size: 15px;
+    font-size: 20px;
 }
