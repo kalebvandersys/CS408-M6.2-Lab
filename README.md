@@ -1,29 +1,20 @@
-# web-dev-starter
+# 6.2 Letterheaded Paper
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
-
-## Getting Started
-
-To get started, clone this repository and run the following commands:
-
-```bash
-npm install
-```
-This will install the necessary dependencies for the project.
+This project is creating a nicely formatted letter with css and html. It also has 
+a little javascript.
 
 ## Development
 
-It is recommended to use the VSCode Live Server extension to run the project
-locally. This will allow you to see changes in real-time as you make them. There
-is no need to run a build process or refresh the page manually. Additionally,
-you do not need to setup a local server to run the project.
+It is recommended to use the VSCode Live Server extension to run the project locally. 
+There is no need to run a build process or refresh the page manually. Additionally, you
+do not need to setup a local server to run the project. Please run the live preview, then
+copy the link and put it in your browser. (After installing the extension, click the name 
+of the project at the top of VSCode, click show and run commands, then type and select 
+"Live Preview:Start Server".) For this project, shrink your webpage to about half width to
+match assignment requirements
 
-## Testing
-
-To run the tests for the project, run the following command:
-
-```bash
-npm test
-```
+## Sources
+https://www.lipsum.com/
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Backgrounds_and_borders
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model
+ChatGPT for explanations and tips
